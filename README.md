@@ -152,7 +152,7 @@ npm run install-deps # Install all dependencies
 
 **Developer**: Arif Rahman Sikder  
 **Email**: arifrahman78640@gmail.com  
-**GitHub**: https://github.com/pipecat-ai/pipecat
+
 
 ## 🎯 Key Features Implemented
 
